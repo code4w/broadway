@@ -20,7 +20,7 @@ p{
   font-size: 14px
 }
 .header{
-  background-image: url("images/the-flatiron-building.png");
+  background-image: url('images/the-flatiron-building.png');
   color: white;
   text-align: center;
 }
