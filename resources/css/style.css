@@ -11,6 +11,7 @@ h1 {
 }
 h2{
   font-size: 32px;
+  text-align: center;
 }
 h3{
   font-size: 23px
@@ -19,7 +20,7 @@ p{
   font-size: 14px
 }
 .header{
-  background-image: url("images/the-flat-iron-building.png");
+  background-image: url("resources/images/the-flat-iron-building.png");
   color: white;
   text-align: center;
 }
